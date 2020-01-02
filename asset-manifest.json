@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/card-website/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/card-website/static/js/main.b767f309.chunk.js",
-    "main.js.map": "/card-website/static/js/main.b767f309.chunk.js.map",
+    "main.js": "/card-website/static/js/main.d4094a98.chunk.js",
+    "main.js.map": "/card-website/static/js/main.d4094a98.chunk.js.map",
     "runtime-main.js": "/card-website/static/js/runtime-main.2bd2f1e5.js",
     "runtime-main.js.map": "/card-website/static/js/runtime-main.2bd2f1e5.js.map",
     "static/js/2.b4979256.chunk.js": "/card-website/static/js/2.b4979256.chunk.js",
     "static/js/2.b4979256.chunk.js.map": "/card-website/static/js/2.b4979256.chunk.js.map",
     "index.html": "/card-website/index.html",
-    "precache-manifest.d26617015dedd6ef676967d3babbdcb5.js": "/card-website/precache-manifest.d26617015dedd6ef676967d3babbdcb5.js",
+    "precache-manifest.1c5b62af87ebd55652c54329e27ad02b.js": "/card-website/precache-manifest.1c5b62af87ebd55652c54329e27ad02b.js",
     "service-worker.js": "/card-website/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/card-website/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.b4979256.chunk.js.LICENSE": "/card-website/static/js/2.b4979256.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2bd2f1e5.js",
     "static/js/2.b4979256.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.b767f309.chunk.js"
+    "static/js/main.d4094a98.chunk.js"
   ]
 }
